@@ -21,4 +21,5 @@ while i < 600851475143:
 				break
 	if num > 0:
 		break
+	print i
 print num
